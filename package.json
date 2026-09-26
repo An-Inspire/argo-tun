@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1,0,0",
-  "description": "Thsi is a node project",
+  "description": "Minimal Node.js HTTP Server",
   "main": "index.js",
   "author": "",
   "repository": "",
